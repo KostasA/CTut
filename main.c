@@ -1,12 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
+#define MYNAME "Kostas Anastasiou"
 
 
 int main()
 {
-	char name[18] = "Kostas Anastasiou";
-	printf("Main program\n");
-	printf("My name is %s \n",name);
-	
+	printf("My name is %s",MYNAME);
 	return 0;
 }
