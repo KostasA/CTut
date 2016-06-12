@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
-#define MYNAME "Kostas Anastasiou"
+#include "Info.h"
 
 
 int main()
